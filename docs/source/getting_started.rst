@@ -11,7 +11,7 @@ To get started with the robot you need to make sure that you have the following 
 
 .. note::
 
-    You may prefer to use docker to containerize the development environment. If you are interested in using docker, please refer to the :doc:`Docker` section.
+    You may prefer to use docker to containerize the development environment. If you are interested in using docker, please refer to the :doc:`docker` section.
 
 
 
