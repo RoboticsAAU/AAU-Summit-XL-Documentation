@@ -1,7 +1,7 @@
 Packages
 ========
 
-The build snapshot of the Summit Robot can be found in `~/catkin_ws/src/summit_packages_release_melodic-devel/` contains multiple packages that are used to control the robot. More specifically, it contains 148 packages, distributed between these folders. The packages are:
+The build snapshot of the Summit Robot can be found in `~/catkin_ws/src/summit_packages_release_melodic-devel/` of the robot, and it contains multiple packages that are used to control the robot. More specifically, it contains 148 packages, distributed between the following folders. The packages are:
 
 .. toctree::
 
@@ -14,7 +14,7 @@ The build snapshot of the Summit Robot can be found in `~/catkin_ws/src/summit_p
     navigation
     others
     robot
-    robot_brinup
+    robot_bringup
     sensors
     simulation
     web
