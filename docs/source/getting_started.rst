@@ -69,6 +69,7 @@ This is important such that the robot can resolve your hostname to your IP addre
 .. note:: 
 
     To use SSH, you must deactivate the firewall on the robot. You can do this by running the following command:
+
     .. code-block:: bash
 
         sudo ufw disable
