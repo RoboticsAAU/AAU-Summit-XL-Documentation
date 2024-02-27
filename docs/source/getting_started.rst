@@ -56,7 +56,11 @@ This is important such that the robot can resolve your hostname to your IP addre
 
     hostname -I
 
-8. Add the robot's hostname and IP to your PC's ``/etc/hosts`` file. The robots hostname and IP is as stated in the manual:
+
+Host Setup 
+----------
+
+Add the robot's hostname and IP to your PC's ``/etc/hosts`` file. The robots hostname and IP is as stated in the manual:
 
 .. code-block:: text
 
