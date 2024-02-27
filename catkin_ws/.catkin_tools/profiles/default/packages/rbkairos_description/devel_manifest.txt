@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/robot/rbkairos_common/rbkairos_description
+/home/robot/catkin_ws/devel/.private/rbkairos_description/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rbkairos_description/lib/pkgconfig/rbkairos_description.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rbkairos_description.pc
+/home/robot/catkin_ws/devel/.private/rbkairos_description/share/rbkairos_description/cmake/rbkairos_descriptionConfig-version.cmake /home/robot/catkin_ws/devel/share/rbkairos_description/cmake/rbkairos_descriptionConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/rbkairos_description/share/rbkairos_description/cmake/rbkairos_descriptionConfig.cmake /home/robot/catkin_ws/devel/share/rbkairos_description/cmake/rbkairos_descriptionConfig.cmake

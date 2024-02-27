@@ -1,0 +1,19 @@
+(cl:defpackage rostful_tests-msg
+  (:use )
+  (:export
+   "<WAITACTION>"
+   "WAITACTION"
+   "<WAITACTIONFEEDBACK>"
+   "WAITACTIONFEEDBACK"
+   "<WAITACTIONGOAL>"
+   "WAITACTIONGOAL"
+   "<WAITACTIONRESULT>"
+   "WAITACTIONRESULT"
+   "<WAITFEEDBACK>"
+   "WAITFEEDBACK"
+   "<WAITGOAL>"
+   "WAITGOAL"
+   "<WAITRESULT>"
+   "WAITRESULT"
+  ))
+

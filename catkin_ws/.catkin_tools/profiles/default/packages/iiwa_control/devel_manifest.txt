@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/manipulation/iiwa_stack/iiwa_control
+/home/robot/catkin_ws/devel/.private/iiwa_control/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/iiwa_control/lib/pkgconfig/iiwa_control.pc /home/robot/catkin_ws/devel/lib/pkgconfig/iiwa_control.pc
+/home/robot/catkin_ws/devel/.private/iiwa_control/share/iiwa_control/cmake/iiwa_controlConfig-version.cmake /home/robot/catkin_ws/devel/share/iiwa_control/cmake/iiwa_controlConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/iiwa_control/share/iiwa_control/cmake/iiwa_controlConfig.cmake /home/robot/catkin_ws/devel/share/iiwa_control/cmake/iiwa_controlConfig.cmake

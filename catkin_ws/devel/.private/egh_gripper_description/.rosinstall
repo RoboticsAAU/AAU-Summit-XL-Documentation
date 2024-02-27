@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robot/catkin_ws/devel/.private/egh_gripper_description/setup.sh

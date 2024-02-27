@@ -1,0 +1,13 @@
+summit_packages_release_melodic-devel/navigation/robotnik_localization/localization_checker
+/home/robot/catkin_ws/devel/.private/localization_checker/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/localization_checker/lib/pkgconfig/localization_checker.pc /home/robot/catkin_ws/devel/lib/pkgconfig/localization_checker.pc
+/home/robot/catkin_ws/devel/.private/localization_checker/lib/python2.7/dist-packages/localization_checker/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/localization_checker/__init__.py
+/home/robot/catkin_ws/devel/.private/localization_checker/lib/python2.7/dist-packages/localization_checker/cfg/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/localization_checker/cfg/__init__.py
+/home/robot/catkin_ws/devel/.private/localization_checker/lib/python2.7/dist-packages/localization_checker/cfg/LocalizationCheckerConfig.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/localization_checker/cfg/LocalizationCheckerConfig.py
+/home/robot/catkin_ws/devel/.private/localization_checker/lib/localization_checker/localization_checker_node /home/robot/catkin_ws/devel/lib/localization_checker/localization_checker_node
+/home/robot/catkin_ws/devel/.private/localization_checker/include/localization_checker/LocalizationCheckerConfig.h /home/robot/catkin_ws/devel/include/localization_checker/LocalizationCheckerConfig.h
+/home/robot/catkin_ws/devel/.private/localization_checker/share/localization_checker/docs/LocalizationCheckerConfig-usage.dox /home/robot/catkin_ws/devel/share/localization_checker/docs/LocalizationCheckerConfig-usage.dox
+/home/robot/catkin_ws/devel/.private/localization_checker/share/localization_checker/docs/LocalizationCheckerConfig.dox /home/robot/catkin_ws/devel/share/localization_checker/docs/LocalizationCheckerConfig.dox
+/home/robot/catkin_ws/devel/.private/localization_checker/share/localization_checker/docs/LocalizationCheckerConfig.wikidoc /home/robot/catkin_ws/devel/share/localization_checker/docs/LocalizationCheckerConfig.wikidoc
+/home/robot/catkin_ws/devel/.private/localization_checker/share/localization_checker/cmake/localization_checkerConfig.cmake /home/robot/catkin_ws/devel/share/localization_checker/cmake/localization_checkerConfig.cmake
+/home/robot/catkin_ws/devel/.private/localization_checker/share/localization_checker/cmake/localization_checkerConfig-version.cmake /home/robot/catkin_ws/devel/share/localization_checker/cmake/localization_checkerConfig-version.cmake

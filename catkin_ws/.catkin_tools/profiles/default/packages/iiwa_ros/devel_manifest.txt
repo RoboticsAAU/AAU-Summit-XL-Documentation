@@ -1,0 +1,7 @@
+summit_packages_release_melodic-devel/manipulation/iiwa_stack/iiwa_ros
+/home/robot/catkin_ws/devel/.private/iiwa_ros/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/iiwa_ros/lib/libiiwa_ros.so /home/robot/catkin_ws/devel/lib/libiiwa_ros.so
+/home/robot/catkin_ws/devel/.private/iiwa_ros/lib/pkgconfig/iiwa_ros.pc /home/robot/catkin_ws/devel/lib/pkgconfig/iiwa_ros.pc
+/home/robot/catkin_ws/devel/.private/iiwa_ros/lib/iiwa_ros/iiwa_ros_test /home/robot/catkin_ws/devel/lib/iiwa_ros/iiwa_ros_test
+/home/robot/catkin_ws/devel/.private/iiwa_ros/share/iiwa_ros/cmake/iiwa_rosConfig.cmake /home/robot/catkin_ws/devel/share/iiwa_ros/cmake/iiwa_rosConfig.cmake
+/home/robot/catkin_ws/devel/.private/iiwa_ros/share/iiwa_ros/cmake/iiwa_rosConfig-version.cmake /home/robot/catkin_ws/devel/share/iiwa_ros/cmake/iiwa_rosConfig-version.cmake

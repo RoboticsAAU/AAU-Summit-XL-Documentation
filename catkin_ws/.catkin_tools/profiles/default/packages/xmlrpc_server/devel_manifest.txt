@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/web/xmlrpc_server
+/home/robot/catkin_ws/devel/.private/xmlrpc_server/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/xmlrpc_server/lib/pkgconfig/xmlrpc_server.pc /home/robot/catkin_ws/devel/lib/pkgconfig/xmlrpc_server.pc
+/home/robot/catkin_ws/devel/.private/xmlrpc_server/lib/python2.7/dist-packages/xmlrpc_server/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/xmlrpc_server/__init__.py
+/home/robot/catkin_ws/devel/.private/xmlrpc_server/share/xmlrpc_server/cmake/xmlrpc_serverConfig.cmake /home/robot/catkin_ws/devel/share/xmlrpc_server/cmake/xmlrpc_serverConfig.cmake
+/home/robot/catkin_ws/devel/.private/xmlrpc_server/share/xmlrpc_server/cmake/xmlrpc_serverConfig-version.cmake /home/robot/catkin_ws/devel/share/xmlrpc_server/cmake/xmlrpc_serverConfig-version.cmake

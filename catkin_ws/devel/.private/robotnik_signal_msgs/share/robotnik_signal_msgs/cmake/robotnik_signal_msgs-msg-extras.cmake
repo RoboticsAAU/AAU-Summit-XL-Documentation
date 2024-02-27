@@ -1,0 +1,2 @@
+set(robotnik_signal_msgs_MESSAGE_FILES "/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/msgs/robotnik_signal_msgs/msg/SignalStatus.msg;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/msgs/robotnik_signal_msgs/msg/SignalStatusArray.msg")
+set(robotnik_signal_msgs_SERVICE_FILES "/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/msgs/robotnik_signal_msgs/srv/SetSignal.srv")

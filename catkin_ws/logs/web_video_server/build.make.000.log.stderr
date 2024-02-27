@@ -1,0 +1,25 @@
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/src/libav_streamer.cpp:[m[K In member function ‘[01m[Kvirtual void web_video_server::LibavStreamer::initialize(const cv::Mat&)[m[K’:
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/src/libav_streamer.cpp:160:35:[m[K [01;35m[Kwarning: [m[K‘[01m[KAVStream::codec[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   codec_context_ = video_stream_->[01;35m[Kcodec[m[K;
+                                   [01;35m[K^~~~~[m[K
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/include/web_video_server/libav_streamer.h:12:0[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/src/libav_streamer.cpp:1[m[K:
+[01m[K/usr/include/x86_64-linux-gnu/libavformat/avformat.h:893:21:[m[K [01;36m[Knote: [m[Kdeclared here
+     AVCodecContext *[01;36m[Kcodec[m[K;
+                     [01;36m[K^~~~~[m[K
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/src/libav_streamer.cpp:160:35:[m[K [01;35m[Kwarning: [m[K‘[01m[KAVStream::codec[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   codec_context_ = video_stream_->[01;35m[Kcodec[m[K;
+                                   [01;35m[K^~~~~[m[K
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/include/web_video_server/libav_streamer.h:12:0[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/src/libav_streamer.cpp:1[m[K:
+[01m[K/usr/include/x86_64-linux-gnu/libavformat/avformat.h:893:21:[m[K [01;36m[Knote: [m[Kdeclared here
+     AVCodecContext *[01;36m[Kcodec[m[K;
+                     [01;36m[K^~~~~[m[K
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/src/libav_streamer.cpp:160:35:[m[K [01;35m[Kwarning: [m[K‘[01m[KAVStream::codec[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+   codec_context_ = video_stream_->[01;35m[Kcodec[m[K;
+                                   [01;35m[K^~~~~[m[K
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/include/web_video_server/libav_streamer.h:12:0[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/web/web_video_server/src/libav_streamer.cpp:1[m[K:
+[01m[K/usr/include/x86_64-linux-gnu/libavformat/avformat.h:893:21:[m[K [01;36m[Knote: [m[Kdeclared here
+     AVCodecContext *[01;36m[Kcodec[m[K;
+                     [01;36m[K^~~~~[m[K

@@ -1,0 +1,7 @@
+summit_packages_release_melodic-devel/sensors/ublox/ublox_gps
+/home/robot/catkin_ws/devel/.private/ublox_gps/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/ublox_gps/lib/libublox_gps.so /home/robot/catkin_ws/devel/lib/libublox_gps.so
+/home/robot/catkin_ws/devel/.private/ublox_gps/lib/pkgconfig/ublox_gps.pc /home/robot/catkin_ws/devel/lib/pkgconfig/ublox_gps.pc
+/home/robot/catkin_ws/devel/.private/ublox_gps/lib/ublox_gps/ublox_gps /home/robot/catkin_ws/devel/lib/ublox_gps/ublox_gps
+/home/robot/catkin_ws/devel/.private/ublox_gps/share/ublox_gps/cmake/ublox_gpsConfig-version.cmake /home/robot/catkin_ws/devel/share/ublox_gps/cmake/ublox_gpsConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/ublox_gps/share/ublox_gps/cmake/ublox_gpsConfig.cmake /home/robot/catkin_ws/devel/share/ublox_gps/cmake/ublox_gpsConfig.cmake

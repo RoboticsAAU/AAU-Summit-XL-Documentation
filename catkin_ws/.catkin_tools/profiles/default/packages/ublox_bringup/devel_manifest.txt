@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/sensors/ublox/ublox_bringup
+/home/robot/catkin_ws/devel/.private/ublox_bringup/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/ublox_bringup/lib/pkgconfig/ublox_bringup.pc /home/robot/catkin_ws/devel/lib/pkgconfig/ublox_bringup.pc
+/home/robot/catkin_ws/devel/.private/ublox_bringup/share/ublox_bringup/cmake/ublox_bringupConfig.cmake /home/robot/catkin_ws/devel/share/ublox_bringup/cmake/ublox_bringupConfig.cmake
+/home/robot/catkin_ws/devel/.private/ublox_bringup/share/ublox_bringup/cmake/ublox_bringupConfig-version.cmake /home/robot/catkin_ws/devel/share/ublox_bringup/cmake/ublox_bringupConfig-version.cmake

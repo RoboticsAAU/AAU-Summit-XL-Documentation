@@ -1,0 +1,8 @@
+(cl:in-package robot_local_control_msgs-msg)
+(cl:export '(NAME-VAL
+          NAME
+          TYPE-VAL
+          TYPE
+          STATE-VAL
+          STATE
+))

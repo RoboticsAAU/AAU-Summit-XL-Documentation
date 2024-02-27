@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/sensors/ros_astra_launch
+/home/robot/catkin_ws/devel/.private/astra_launch/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/astra_launch/lib/pkgconfig/astra_launch.pc /home/robot/catkin_ws/devel/lib/pkgconfig/astra_launch.pc
+/home/robot/catkin_ws/devel/.private/astra_launch/share/astra_launch/cmake/astra_launchConfig.cmake /home/robot/catkin_ws/devel/share/astra_launch/cmake/astra_launchConfig.cmake
+/home/robot/catkin_ws/devel/.private/astra_launch/share/astra_launch/cmake/astra_launchConfig-version.cmake /home/robot/catkin_ws/devel/share/astra_launch/cmake/astra_launchConfig-version.cmake

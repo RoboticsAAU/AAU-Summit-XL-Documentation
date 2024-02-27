@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/web/Robotnik_RMS/rms/robotnik_rms
+/home/robot/catkin_ws/devel/.private/robotnik_rms/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/robotnik_rms/lib/pkgconfig/robotnik_rms.pc /home/robot/catkin_ws/devel/lib/pkgconfig/robotnik_rms.pc
+/home/robot/catkin_ws/devel/.private/robotnik_rms/share/robotnik_rms/cmake/robotnik_rmsConfig-version.cmake /home/robot/catkin_ws/devel/share/robotnik_rms/cmake/robotnik_rmsConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/robotnik_rms/share/robotnik_rms/cmake/robotnik_rmsConfig.cmake /home/robot/catkin_ws/devel/share/robotnik_rms/cmake/robotnik_rmsConfig.cmake

@@ -1,0 +1,13 @@
+summit_packages_release_melodic-devel/others/rosmon/rosmon_core
+/home/robot/catkin_ws/devel/.private/rosmon_core/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rosmon_core/lib/librosmon_launch_config.so /home/robot/catkin_ws/devel/lib/librosmon_launch_config.so
+/home/robot/catkin_ws/devel/.private/rosmon_core/lib/pkgconfig/rosmon_core.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rosmon_core.pc
+/home/robot/catkin_ws/devel/.private/rosmon_core/lib/rosmon_core/abort_really_long_executable /home/robot/catkin_ws/devel/lib/rosmon_core/abort_really_long_executable
+/home/robot/catkin_ws/devel/.private/rosmon_core/lib/rosmon_core/test_xml_loading /home/robot/catkin_ws/devel/lib/rosmon_core/test_xml_loading
+/home/robot/catkin_ws/devel/.private/rosmon_core/lib/rosmon_core/abort /home/robot/catkin_ws/devel/lib/rosmon_core/abort
+/home/robot/catkin_ws/devel/.private/rosmon_core/lib/rosmon_core/_shim /home/robot/catkin_ws/devel/lib/rosmon_core/_shim
+/home/robot/catkin_ws/devel/.private/rosmon_core/lib/rosmon_core/rosmon /home/robot/catkin_ws/devel/lib/rosmon_core/rosmon
+/home/robot/catkin_ws/devel/.private/rosmon_core/share/rosmon_core/cmake/rosmon_coreConfig-version.cmake /home/robot/catkin_ws/devel/share/rosmon_core/cmake/rosmon_coreConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/rosmon_core/share/rosmon_core/cmake/rosmon_coreConfig.cmake /home/robot/catkin_ws/devel/share/rosmon_core/cmake/rosmon_coreConfig.cmake
+/home/robot/catkin_ws/devel/.private/rosmon_core/etc/catkin/profile.d/50-rosmon.zsh /home/robot/catkin_ws/devel/etc/catkin/profile.d/50-rosmon.zsh
+/home/robot/catkin_ws/devel/.private/rosmon_core/etc/catkin/profile.d/50-rosmon.bash /home/robot/catkin_ws/devel/etc/catkin/profile.d/50-rosmon.bash

@@ -1,0 +1,8 @@
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/sensors/ira_laser_tools/src/laserscan_multi_merger.cpp:14:0[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/sensors/ira_laser_tools/src/laserscan_virtualizer.cpp:12:0[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K

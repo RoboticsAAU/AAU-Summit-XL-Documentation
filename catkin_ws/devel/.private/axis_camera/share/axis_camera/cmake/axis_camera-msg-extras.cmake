@@ -1,0 +1,2 @@
+set(axis_camera_MESSAGE_FILES "/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/sensors/axis_camera/msg/Axis.msg;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/sensors/axis_camera/msg/ptz.msg;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/sensors/axis_camera/msg/inputs_outputs.msg")
+set(axis_camera_SERVICE_FILES "/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/sensors/axis_camera/srv/set_ptz.srv;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/sensors/axis_camera/srv/set_digital_output.srv")

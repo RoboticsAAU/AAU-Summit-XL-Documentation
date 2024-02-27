@@ -1,0 +1,26 @@
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/navigation/robotnik_localization/icp_pose_corrector/src/icp_pose_corrector.cpp:6:0[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/registration/icp.h:45[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/navigation/robotnik_localization/icp_pose_corrector/include/icp_pose_corrector/icp_pose_corrector.h:24[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/navigation/robotnik_localization/icp_pose_corrector/src/icp_pose_corrector_node.cpp:1[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/registration/icp.h:45[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/navigation/robotnik_localization/icp_pose_corrector/include/icp_pose_corrector/icp_pose_corrector.h:24[m[K,
+                 from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/navigation/robotnik_localization/icp_pose_corrector/src/icp_pose_corrector.cpp:1[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here

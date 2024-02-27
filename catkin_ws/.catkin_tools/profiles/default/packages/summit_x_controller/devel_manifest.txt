@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/robot/summit_xl_robot/summit_x_controller
+/home/robot/catkin_ws/devel/.private/summit_x_controller/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/summit_x_controller/lib/libsummit_x_controller.so /home/robot/catkin_ws/devel/lib/libsummit_x_controller.so
+/home/robot/catkin_ws/devel/.private/summit_x_controller/lib/pkgconfig/summit_x_controller.pc /home/robot/catkin_ws/devel/lib/pkgconfig/summit_x_controller.pc
+/home/robot/catkin_ws/devel/.private/summit_x_controller/share/summit_x_controller/cmake/summit_x_controllerConfig-version.cmake /home/robot/catkin_ws/devel/share/summit_x_controller/cmake/summit_x_controllerConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/summit_x_controller/share/summit_x_controller/cmake/summit_x_controllerConfig.cmake /home/robot/catkin_ws/devel/share/summit_x_controller/cmake/summit_x_controllerConfig.cmake

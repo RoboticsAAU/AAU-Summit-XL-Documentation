@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/others/robotnik_signal_manager/robotnik_signal_interface
+/home/robot/catkin_ws/devel/.private/robotnik_signal_interface/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/robotnik_signal_interface/lib/pkgconfig/robotnik_signal_interface.pc /home/robot/catkin_ws/devel/lib/pkgconfig/robotnik_signal_interface.pc
+/home/robot/catkin_ws/devel/.private/robotnik_signal_interface/lib/python2.7/dist-packages/robotnik_signal_interface/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/robotnik_signal_interface/__init__.py
+/home/robot/catkin_ws/devel/.private/robotnik_signal_interface/share/robotnik_signal_interface/cmake/robotnik_signal_interfaceConfig.cmake /home/robot/catkin_ws/devel/share/robotnik_signal_interface/cmake/robotnik_signal_interfaceConfig.cmake
+/home/robot/catkin_ws/devel/.private/robotnik_signal_interface/share/robotnik_signal_interface/cmake/robotnik_signal_interfaceConfig-version.cmake /home/robot/catkin_ws/devel/share/robotnik_signal_interface/cmake/robotnik_signal_interfaceConfig-version.cmake

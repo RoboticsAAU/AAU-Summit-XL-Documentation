@@ -1,0 +1,7 @@
+summit_packages_release_melodic-devel/imu/vectornav
+/home/robot/catkin_ws/devel/.private/vectornav/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/vectornav/lib/liblibvncxx.so /home/robot/catkin_ws/devel/lib/liblibvncxx.so
+/home/robot/catkin_ws/devel/.private/vectornav/lib/pkgconfig/vectornav.pc /home/robot/catkin_ws/devel/lib/pkgconfig/vectornav.pc
+/home/robot/catkin_ws/devel/.private/vectornav/lib/vectornav/vnpub /home/robot/catkin_ws/devel/lib/vectornav/vnpub
+/home/robot/catkin_ws/devel/.private/vectornav/share/vectornav/cmake/vectornavConfig-version.cmake /home/robot/catkin_ws/devel/share/vectornav/cmake/vectornavConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/vectornav/share/vectornav/cmake/vectornavConfig.cmake /home/robot/catkin_ws/devel/share/vectornav/cmake/vectornavConfig.cmake

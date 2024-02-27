@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="localization_checker_node" pkg="localization_checker" type="localization_checker_node">
+  <param name="enabled" type="bool" value="True" />
+  <param name="obstacle_value" type="int" value="100" />
+  <param name="inflation_distance" type="double" value="0.15" />
+  <param name="localization_distance" type="double" value="10.0" />
+  <param name="update_min_d" type="double" value="0.1" />
+  <param name="update_min_a" type="double" value="0.1" />
+</node>
+\endverbatim
+

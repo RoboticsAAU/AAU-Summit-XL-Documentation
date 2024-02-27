@@ -1,0 +1,12 @@
+summit_packages_release_melodic-devel/others/rcomponent
+/home/robot/catkin_ws/devel/.private/rcomponent/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/librcomponent.so /home/robot/catkin_ws/devel/lib/librcomponent.so
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/pkgconfig/rcomponent.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rcomponent.pc
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/rcomponent/rcomponent_simple /home/robot/catkin_ws/devel/lib/rcomponent/rcomponent_simple
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/rcomponent/rcomponent_diagnostic /home/robot/catkin_ws/devel/lib/rcomponent/rcomponent_diagnostic
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/rcomponent/rcomponent_simple_async /home/robot/catkin_ws/devel/lib/rcomponent/rcomponent_simple_async
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/rcomponent/test_namespace /home/robot/catkin_ws/devel/lib/rcomponent/test_namespace
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/rcomponent/rcomponent_server /home/robot/catkin_ws/devel/lib/rcomponent/rcomponent_server
+/home/robot/catkin_ws/devel/.private/rcomponent/lib/python2.7/dist-packages/rcomponent/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/rcomponent/__init__.py
+/home/robot/catkin_ws/devel/.private/rcomponent/share/rcomponent/cmake/rcomponentConfig-version.cmake /home/robot/catkin_ws/devel/share/rcomponent/cmake/rcomponentConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/rcomponent/share/rcomponent/cmake/rcomponentConfig.cmake /home/robot/catkin_ws/devel/share/rcomponent/cmake/rcomponentConfig.cmake

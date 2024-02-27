@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/robot/summit_xl_common/summit_xl_localization
+/home/robot/catkin_ws/devel/.private/summit_xl_localization/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/summit_xl_localization/lib/pkgconfig/summit_xl_localization.pc /home/robot/catkin_ws/devel/lib/pkgconfig/summit_xl_localization.pc
+/home/robot/catkin_ws/devel/.private/summit_xl_localization/share/summit_xl_localization/cmake/summit_xl_localizationConfig-version.cmake /home/robot/catkin_ws/devel/share/summit_xl_localization/cmake/summit_xl_localizationConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/summit_xl_localization/share/summit_xl_localization/cmake/summit_xl_localizationConfig.cmake /home/robot/catkin_ws/devel/share/summit_xl_localization/cmake/summit_xl_localizationConfig.cmake

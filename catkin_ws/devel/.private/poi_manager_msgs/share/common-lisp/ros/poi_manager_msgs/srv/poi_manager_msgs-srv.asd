@@ -1,0 +1,31 @@
+
+(cl:in-package :asdf)
+
+(defsystem "poi_manager_msgs-srv"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils :geometry_msgs-msg
+               :poi_manager_msgs-msg
+)
+  :components ((:file "_package")
+    (:file "AddPOI" :depends-on ("_package_AddPOI"))
+    (:file "_package_AddPOI" :depends-on ("_package"))
+    (:file "AddPOI_params" :depends-on ("_package_AddPOI_params"))
+    (:file "_package_AddPOI_params" :depends-on ("_package"))
+    (:file "AddPOIs" :depends-on ("_package_AddPOIs"))
+    (:file "_package_AddPOIs" :depends-on ("_package"))
+    (:file "DeleteEnvironment" :depends-on ("_package_DeleteEnvironment"))
+    (:file "_package_DeleteEnvironment" :depends-on ("_package"))
+    (:file "DeletePOI" :depends-on ("_package_DeletePOI"))
+    (:file "_package_DeletePOI" :depends-on ("_package"))
+    (:file "GetEnvironments" :depends-on ("_package_GetEnvironments"))
+    (:file "_package_GetEnvironments" :depends-on ("_package"))
+    (:file "GetPOI" :depends-on ("_package_GetPOI"))
+    (:file "_package_GetPOI" :depends-on ("_package"))
+    (:file "GetPOI_params" :depends-on ("_package_GetPOI_params"))
+    (:file "_package_GetPOI_params" :depends-on ("_package"))
+    (:file "GetPOIs" :depends-on ("_package_GetPOIs"))
+    (:file "_package_GetPOIs" :depends-on ("_package"))
+    (:file "GetPoseTrigger" :depends-on ("_package_GetPoseTrigger"))
+    (:file "_package_GetPoseTrigger" :depends-on ("_package"))
+    (:file "ReadPOIs" :depends-on ("_package_ReadPOIs"))
+    (:file "_package_ReadPOIs" :depends-on ("_package"))
+  ))

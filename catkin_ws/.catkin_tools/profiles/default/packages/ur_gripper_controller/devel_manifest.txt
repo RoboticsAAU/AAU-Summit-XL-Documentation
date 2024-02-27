@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/manipulation/ur_gripper_controller
+/home/robot/catkin_ws/devel/.private/ur_gripper_controller/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/ur_gripper_controller/lib/pkgconfig/ur_gripper_controller.pc /home/robot/catkin_ws/devel/lib/pkgconfig/ur_gripper_controller.pc
+/home/robot/catkin_ws/devel/.private/ur_gripper_controller/lib/python2.7/dist-packages/ur_gripper_controller/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/ur_gripper_controller/__init__.py
+/home/robot/catkin_ws/devel/.private/ur_gripper_controller/share/ur_gripper_controller/cmake/ur_gripper_controllerConfig-version.cmake /home/robot/catkin_ws/devel/share/ur_gripper_controller/cmake/ur_gripper_controllerConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/ur_gripper_controller/share/ur_gripper_controller/cmake/ur_gripper_controllerConfig.cmake /home/robot/catkin_ws/devel/share/ur_gripper_controller/cmake/ur_gripper_controllerConfig.cmake

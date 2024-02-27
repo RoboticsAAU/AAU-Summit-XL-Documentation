@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/others/rosserial/rosserial_python
+/home/robot/catkin_ws/devel/.private/rosserial_python/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rosserial_python/lib/pkgconfig/rosserial_python.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rosserial_python.pc
+/home/robot/catkin_ws/devel/.private/rosserial_python/lib/python2.7/dist-packages/rosserial_python/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/rosserial_python/__init__.py
+/home/robot/catkin_ws/devel/.private/rosserial_python/share/rosserial_python/cmake/rosserial_pythonConfig.cmake /home/robot/catkin_ws/devel/share/rosserial_python/cmake/rosserial_pythonConfig.cmake
+/home/robot/catkin_ws/devel/.private/rosserial_python/share/rosserial_python/cmake/rosserial_pythonConfig-version.cmake /home/robot/catkin_ws/devel/share/rosserial_python/cmake/rosserial_pythonConfig-version.cmake

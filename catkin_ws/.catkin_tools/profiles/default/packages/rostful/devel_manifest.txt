@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/web/rostful/rostful
+/home/robot/catkin_ws/devel/.private/rostful/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rostful/lib/pkgconfig/rostful.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rostful.pc
+/home/robot/catkin_ws/devel/.private/rostful/lib/python2.7/dist-packages/rostful/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/rostful/__init__.py
+/home/robot/catkin_ws/devel/.private/rostful/share/rostful/cmake/rostfulConfig-version.cmake /home/robot/catkin_ws/devel/share/rostful/cmake/rostfulConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/rostful/share/rostful/cmake/rostfulConfig.cmake /home/robot/catkin_ws/devel/share/rostful/cmake/rostfulConfig.cmake

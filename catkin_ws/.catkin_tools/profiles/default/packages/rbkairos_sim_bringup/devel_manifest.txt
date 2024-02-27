@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/simulation/rbkairos_sim/rbkairos_sim_bringup
+/home/robot/catkin_ws/devel/.private/rbkairos_sim_bringup/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rbkairos_sim_bringup/lib/pkgconfig/rbkairos_sim_bringup.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rbkairos_sim_bringup.pc
+/home/robot/catkin_ws/devel/.private/rbkairos_sim_bringup/share/rbkairos_sim_bringup/cmake/rbkairos_sim_bringupConfig-version.cmake /home/robot/catkin_ws/devel/share/rbkairos_sim_bringup/cmake/rbkairos_sim_bringupConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/rbkairos_sim_bringup/share/rbkairos_sim_bringup/cmake/rbkairos_sim_bringupConfig.cmake /home/robot/catkin_ws/devel/share/rbkairos_sim_bringup/cmake/rbkairos_sim_bringupConfig.cmake

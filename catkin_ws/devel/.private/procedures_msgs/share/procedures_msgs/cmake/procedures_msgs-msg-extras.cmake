@@ -1,0 +1,2 @@
+set(procedures_msgs_MESSAGE_FILES "/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/msgs/procedures_msgs/msg/ProcedureHeader.msg;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/msgs/procedures_msgs/msg/ProcedureState.msg;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/msgs/procedures_msgs/msg/ProcedureResult.msg")
+set(procedures_msgs_SERVICE_FILES "/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/msgs/procedures_msgs/srv/ProcedureQuery.srv")

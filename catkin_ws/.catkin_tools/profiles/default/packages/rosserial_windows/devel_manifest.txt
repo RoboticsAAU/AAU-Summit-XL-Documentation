@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/others/rosserial/rosserial_windows
+/home/robot/catkin_ws/devel/.private/rosserial_windows/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rosserial_windows/lib/pkgconfig/rosserial_windows.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rosserial_windows.pc
+/home/robot/catkin_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake /home/robot/catkin_ws/devel/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake /home/robot/catkin_ws/devel/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake

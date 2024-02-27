@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~enabled" : \b [bool] Wether to apply corrections or not min: False, default: True, max: True
+- \b "~obstacle_value" : \b [int] Value at which obstacles are represented in the recevied map min: 0, default: 100, max: 255
+- \b "~inflation_distance" : \b [double] Distance arround map points where scan match points will be used to correct the pose min: 0.0, default: 0.15, max: 0.5
+- \b "~localization_distance" : \b [double] Distance arround robot to be used in the localization scoring min: 0.1, default: 10.0, max: 25.0
+- \b "~update_min_d" : \b [double] Euclidean distance before performing a pose registration min: 0.0, default: 0.1, max: 5.0
+- \b "~update_min_a" : \b [double] Angular distance before performing a pose registration min: 0.0, default: 0.1, max: 6.28318530718
+

@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/sensors/ublox/ublox_serialization
+/home/robot/catkin_ws/devel/.private/ublox_serialization/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/ublox_serialization/lib/pkgconfig/ublox_serialization.pc /home/robot/catkin_ws/devel/lib/pkgconfig/ublox_serialization.pc
+/home/robot/catkin_ws/devel/.private/ublox_serialization/share/ublox_serialization/cmake/ublox_serializationConfig-version.cmake /home/robot/catkin_ws/devel/share/ublox_serialization/cmake/ublox_serializationConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/ublox_serialization/share/ublox_serialization/cmake/ublox_serializationConfig.cmake /home/robot/catkin_ws/devel/share/ublox_serialization/cmake/ublox_serializationConfig.cmake

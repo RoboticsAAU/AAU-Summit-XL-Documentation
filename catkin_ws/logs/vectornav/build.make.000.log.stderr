@@ -1,0 +1,84 @@
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/packet.cpp:2:0[m[K:
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/include/vn/utilities.h:29:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "major" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "major", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "major", you should undefine it after including <sys/types.h>.
+  static int [01;35m[Kmajor();[m[K
+             [01;35m[K^~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                               
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/packet.cpp:2:0[m[K:
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/include/vn/utilities.h:34:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "minor" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "minor", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "minor", you should undefine it after including <sys/types.h>.
+  static int [01;35m[Kminor();[m[K
+             [01;35m[K^~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                               
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/packetfinder.cpp:2:0[m[K:
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/include/vn/utilities.h:29:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "major" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "major", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "major", you should undefine it after including <sys/types.h>.
+  static int [01;35m[Kmajor();[m[K
+             [01;35m[K^~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                               
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/packetfinder.cpp:2:0[m[K:
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/include/vn/utilities.h:34:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "minor" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "minor", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "minor", you should undefine it after including <sys/types.h>.
+  static int [01;35m[Kminor();[m[K
+             [01;35m[K^~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                               
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/utilities.cpp:2:0[m[K:
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/include/vn/utilities.h:29:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "major" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "major", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "major", you should undefine it after including <sys/types.h>.
+  static int [01;35m[Kmajor();[m[K
+             [01;35m[K^~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                               
+In file included from [01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/utilities.cpp:2:0[m[K:
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/include/vn/utilities.h:34:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "minor" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "minor", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "minor", you should undefine it after including <sys/types.h>.
+  static int [01;35m[Kminor();[m[K
+             [01;35m[K^~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                               
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/utilities.cpp:37:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "major" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "major", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "major", you should undefine it after including <sys/types.h>.
+ int ApiVersi[01;35m[Kon::major()[m[K
+             [01;35m[K^~~~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                             
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/utilities.cpp:42:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "minor" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "minor", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "minor", you should undefine it after including <sys/types.h>.
+ int ApiVersi[01;35m[Kon::minor()[m[K
+             [01;35m[K^~~~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                                                                             
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/utilities.cpp:61:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "major" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "major", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "major", you should undefine it after including <sys/types.h>.
+  ss << major[01;35m[K() << "." << minor() << "." << patch() << "." << revision();[m[K
+             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K                                                                                                                                                                                                                                                                                                            
+[01m[K/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/imu/vectornav/vnproglib-1.1.4.0/cpp/src/utilities.cpp:61:13:[m[K [01;35m[Kwarning: [m[KIn the GNU C Library, "minor" is defined
+ by <sys/sysmacros.h>. For historical compatibility, it is
+ currently defined by <sys/types.h> as well, but we plan to
+ remove this soon. To use "minor", include <sys/sysmacros.h>
+ directly. If you did not intend to use a system-defined macro
+ "minor", you should undefine it after including <sys/types.h>.

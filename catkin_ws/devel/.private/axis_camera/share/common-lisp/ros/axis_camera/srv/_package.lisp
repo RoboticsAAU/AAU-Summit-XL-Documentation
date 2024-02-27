@@ -1,0 +1,15 @@
+(cl:defpackage axis_camera-srv
+  (:use )
+  (:export
+   "SET_DIGITAL_OUTPUT"
+   "<SET_DIGITAL_OUTPUT-REQUEST>"
+   "SET_DIGITAL_OUTPUT-REQUEST"
+   "<SET_DIGITAL_OUTPUT-RESPONSE>"
+   "SET_DIGITAL_OUTPUT-RESPONSE"
+   "SET_PTZ"
+   "<SET_PTZ-REQUEST>"
+   "SET_PTZ-REQUEST"
+   "<SET_PTZ-RESPONSE>"
+   "SET_PTZ-RESPONSE"
+  ))
+

@@ -1,0 +1,2 @@
+set(robotnik_leds_msgs_MESSAGE_FILES "")
+set(robotnik_leds_msgs_SERVICE_FILES "/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/others/robotnik_signal_manager/robotnik_signal_leds_manager/robotnik_leds_msgs/srv/LedReset.srv;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/others/robotnik_signal_manager/robotnik_signal_leds_manager/robotnik_leds_msgs/srv/LedConfig.srv;/home/robot/catkin_ws/src/summit_packages_release_melodic-devel/others/robotnik_signal_manager/robotnik_signal_leds_manager/robotnik_leds_msgs/srv/LedEffects.srv")

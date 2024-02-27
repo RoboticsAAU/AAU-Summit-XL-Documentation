@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robot/catkin_ws/devel/.private/rbkairos_plus_ur5_vgc10_moveit_config/setup.sh

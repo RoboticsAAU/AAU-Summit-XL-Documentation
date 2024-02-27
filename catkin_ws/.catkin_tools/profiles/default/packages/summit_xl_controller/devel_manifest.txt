@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/robot/summit_xl_robot/summit_xl_controller
+/home/robot/catkin_ws/devel/.private/summit_xl_controller/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/summit_xl_controller/lib/libsummit_xl_controller.so /home/robot/catkin_ws/devel/lib/libsummit_xl_controller.so
+/home/robot/catkin_ws/devel/.private/summit_xl_controller/lib/pkgconfig/summit_xl_controller.pc /home/robot/catkin_ws/devel/lib/pkgconfig/summit_xl_controller.pc
+/home/robot/catkin_ws/devel/.private/summit_xl_controller/share/summit_xl_controller/cmake/summit_xl_controllerConfig-version.cmake /home/robot/catkin_ws/devel/share/summit_xl_controller/cmake/summit_xl_controllerConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/summit_xl_controller/share/summit_xl_controller/cmake/summit_xl_controllerConfig.cmake /home/robot/catkin_ws/devel/share/summit_xl_controller/cmake/summit_xl_controllerConfig.cmake

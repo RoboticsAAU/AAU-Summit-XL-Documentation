@@ -1,0 +1,8 @@
+summit_packages_release_melodic-devel/others/rosserial/rosserial_server
+/home/robot/catkin_ws/devel/.private/rosserial_server/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rosserial_server.pc
+/home/robot/catkin_ws/devel/.private/rosserial_server/lib/rosserial_server/socket_node /home/robot/catkin_ws/devel/lib/rosserial_server/socket_node
+/home/robot/catkin_ws/devel/.private/rosserial_server/lib/rosserial_server/serial_node /home/robot/catkin_ws/devel/lib/rosserial_server/serial_node
+/home/robot/catkin_ws/devel/.private/rosserial_server/lib/rosserial_server/udp_socket_node /home/robot/catkin_ws/devel/lib/rosserial_server/udp_socket_node
+/home/robot/catkin_ws/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake /home/robot/catkin_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig.cmake /home/robot/catkin_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig.cmake

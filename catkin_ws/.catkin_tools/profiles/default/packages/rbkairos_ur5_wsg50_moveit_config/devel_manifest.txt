@@ -1,0 +1,5 @@
+summit_packages_release_melodic-devel/robot/rbkairos_common/moveit/rbkairos_ur5_wsg50_moveit_config
+/home/robot/catkin_ws/devel/.private/rbkairos_ur5_wsg50_moveit_config/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/rbkairos_ur5_wsg50_moveit_config/lib/pkgconfig/rbkairos_ur5_wsg50_moveit_config.pc /home/robot/catkin_ws/devel/lib/pkgconfig/rbkairos_ur5_wsg50_moveit_config.pc
+/home/robot/catkin_ws/devel/.private/rbkairos_ur5_wsg50_moveit_config/share/rbkairos_ur5_wsg50_moveit_config/cmake/rbkairos_ur5_wsg50_moveit_configConfig.cmake /home/robot/catkin_ws/devel/share/rbkairos_ur5_wsg50_moveit_config/cmake/rbkairos_ur5_wsg50_moveit_configConfig.cmake
+/home/robot/catkin_ws/devel/.private/rbkairos_ur5_wsg50_moveit_config/share/rbkairos_ur5_wsg50_moveit_config/cmake/rbkairos_ur5_wsg50_moveit_configConfig-version.cmake /home/robot/catkin_ws/devel/share/rbkairos_ur5_wsg50_moveit_config/cmake/rbkairos_ur5_wsg50_moveit_configConfig-version.cmake

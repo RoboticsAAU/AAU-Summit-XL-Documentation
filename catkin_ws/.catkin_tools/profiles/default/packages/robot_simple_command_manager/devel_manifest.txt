@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/command_manager/robot_simple_command_manager
+/home/robot/catkin_ws/devel/.private/robot_simple_command_manager/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/robot_simple_command_manager/lib/pkgconfig/robot_simple_command_manager.pc /home/robot/catkin_ws/devel/lib/pkgconfig/robot_simple_command_manager.pc
+/home/robot/catkin_ws/devel/.private/robot_simple_command_manager/lib/python2.7/dist-packages/robot_simple_command_manager/__init__.py /home/robot/catkin_ws/devel/lib/python2.7/dist-packages/robot_simple_command_manager/__init__.py
+/home/robot/catkin_ws/devel/.private/robot_simple_command_manager/share/robot_simple_command_manager/cmake/robot_simple_command_managerConfig-version.cmake /home/robot/catkin_ws/devel/share/robot_simple_command_manager/cmake/robot_simple_command_managerConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/robot_simple_command_manager/share/robot_simple_command_manager/cmake/robot_simple_command_managerConfig.cmake /home/robot/catkin_ws/devel/share/robot_simple_command_manager/cmake/robot_simple_command_managerConfig.cmake

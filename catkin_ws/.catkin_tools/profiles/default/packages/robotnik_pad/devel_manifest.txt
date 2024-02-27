@@ -1,0 +1,7 @@
+summit_packages_release_melodic-devel/others/robotnik_pad/robotnik_pad
+/home/robot/catkin_ws/devel/.private/robotnik_pad/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/robotnik_pad/lib/librobotnik_pad.so /home/robot/catkin_ws/devel/lib/librobotnik_pad.so
+/home/robot/catkin_ws/devel/.private/robotnik_pad/lib/pkgconfig/robotnik_pad.pc /home/robot/catkin_ws/devel/lib/pkgconfig/robotnik_pad.pc
+/home/robot/catkin_ws/devel/.private/robotnik_pad/lib/robotnik_pad/robotnik_pad_node /home/robot/catkin_ws/devel/lib/robotnik_pad/robotnik_pad_node
+/home/robot/catkin_ws/devel/.private/robotnik_pad/share/robotnik_pad/cmake/robotnik_padConfig-version.cmake /home/robot/catkin_ws/devel/share/robotnik_pad/cmake/robotnik_padConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/robotnik_pad/share/robotnik_pad/cmake/robotnik_padConfig.cmake /home/robot/catkin_ws/devel/share/robotnik_pad/cmake/robotnik_padConfig.cmake

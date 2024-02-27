@@ -1,0 +1,6 @@
+summit_packages_release_melodic-devel/others/robotnik_modbus_io
+/home/robot/catkin_ws/devel/.private/robotnik_modbus_io/cmake.lock /home/robot/catkin_ws/devel/./cmake.lock
+/home/robot/catkin_ws/devel/.private/robotnik_modbus_io/lib/pkgconfig/robotnik_modbus_io.pc /home/robot/catkin_ws/devel/lib/pkgconfig/robotnik_modbus_io.pc
+/home/robot/catkin_ws/devel/.private/robotnik_modbus_io/lib/robotnik_modbus_io/robotnik_modbus_io_node /home/robot/catkin_ws/devel/lib/robotnik_modbus_io/robotnik_modbus_io_node
+/home/robot/catkin_ws/devel/.private/robotnik_modbus_io/share/robotnik_modbus_io/cmake/robotnik_modbus_ioConfig-version.cmake /home/robot/catkin_ws/devel/share/robotnik_modbus_io/cmake/robotnik_modbus_ioConfig-version.cmake
+/home/robot/catkin_ws/devel/.private/robotnik_modbus_io/share/robotnik_modbus_io/cmake/robotnik_modbus_ioConfig.cmake /home/robot/catkin_ws/devel/share/robotnik_modbus_io/cmake/robotnik_modbus_ioConfig.cmake
