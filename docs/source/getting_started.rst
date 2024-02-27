@@ -48,7 +48,9 @@ or
 
 When inside the file, add the following line to the end of the second section of the file:
 
-``<your_ip> <your_pc_hostname>``
+.. code-block:: text
+
+    <your_ip> <your_pc_hostname>
 
 This is important such that the robot can resolve your hostname to your IP address. You can find your IP address by running the following command:
 
