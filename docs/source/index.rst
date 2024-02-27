@@ -20,3 +20,4 @@ Contents
    getting_started
    changes/changes_made_to_the_robot
    packages/packages
+   docker
