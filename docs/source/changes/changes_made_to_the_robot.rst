@@ -1,4 +1,4 @@
-Changes made to the source code
+Changelog
 ===============================
 
 .. toctree::
