@@ -34,19 +34,17 @@ To start up the robot, please refer to this image:
 6. Connect to the robot's wifi network. The robot's wifi network is called ``shl00-210420ab`` and the password is ``R0b0tn1K``.
 7. Add the hostname and IP of your PC to the robot's ``/etc/hosts`` file. This is necessary for the robot to be able to communicate with your PC. You can do this using vim or nano:  
 
-.. tabs:: Options
 
-    .. tab:: Vim
 
-        .. code-block:: bash
+.. code-block:: bash
 
-            sudo vim /etc/hosts
+    sudo vim /etc/hosts
 
-    .. tab:: Nano
+or
 
-        .. code-block:: bash
+.. code-block:: bash
 
-            sudo nano /etc/hosts
+    sudo nano /etc/hosts
 
 When inside the file, add the following line to the end of the second section of the file:
 
