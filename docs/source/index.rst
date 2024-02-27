@@ -18,6 +18,6 @@ Contents
 .. toctree::
 
    getting_started
-   changes/changes_made_to_the_robot
    packages/packages
    docker
+   changes/changes_made_to_the_robot
