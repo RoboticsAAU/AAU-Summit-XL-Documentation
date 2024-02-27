@@ -25,7 +25,7 @@ To start up the robot, please refer to this image:
 1. Rotate the power switch (2) to the ON position.
 2. The CPU button (3) will turn green when the onboard computer is powered on.
 3. Connect a monitor, keyboard and mouse to the onboard computer using the HDMI and USB ports (7).
-4. The robot will boot up and the robot's computer will automatically start ROS and the robot's packages. For this automatic startup sequence please refer to the :doc:``automatic_ros_startup`` section.
+4. The robot will boot up and the robot's computer will automatically start ROS and the robot's packages. For this automatic startup sequence please refer to the :doc:`automatic_ros_startup` section.
 5. Once the robot is booted up, you can see the robot's manual on the desktop. Please read this manual carefully before proceeding.
 
 
@@ -58,7 +58,11 @@ This is important such that the robot can resolve your hostname to your IP addre
 
 8. Add the robot's hostname and IP to your PC's ``/etc/hosts`` file. The robots hostname and IP is as stated in the manual:
 
-``192.168.0.200 shl00-210420ab``
+.. code-block:: text
+
+    192.168.0.200 shl00-210420ab
+
+.. ``192.168.0.200 shl00-210420ab``
 
 
 
