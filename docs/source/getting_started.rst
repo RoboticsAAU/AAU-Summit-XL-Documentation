@@ -17,9 +17,11 @@ To get started with the robot you need to make sure that you have the following 
 Robot startup
 -------------
 To start up the robot, please refer to this image:
-.. image:: _static/rear_io_panel.png
 
-    :alt: Rear IO panel
+.. image:: images/rear_io_panel.png
+
+    :width: 600
+    :alt: Rear IO panel of the robot with labels.
 
 
 
