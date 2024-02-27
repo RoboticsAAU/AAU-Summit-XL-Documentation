@@ -18,6 +18,7 @@ Robot startup
 -------------
 To start up the robot, please refer to this image:
 .. image:: _static/rear_io_panel.png
+
     :alt: Rear IO panel
 
 
