@@ -19,5 +19,6 @@ Contents
 
    getting_started
    packages/packages
+   automatic_ros_startup
    docker
    changes/changes_made_to_the_robot
