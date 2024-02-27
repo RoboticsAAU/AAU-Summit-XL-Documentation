@@ -4,7 +4,7 @@ Getting Started
 .. autosummary::
     :toctree: generated
 
-To get started with the robot you need to make sure that you have the following dependencies on your pc installed:
+To get started with the robot you need to make sure that you have the following dependencies installed on your pc:
 
 - ROS Melodic 
 - Ubuntu 18.04
@@ -12,6 +12,16 @@ To get started with the robot you need to make sure that you have the following 
 .. note::
 
     You may prefer to use docker to containerize the development environment. If you are interested in using docker, please refer to the :doc:`docker` section.
+
+
+Robot startup
+-------------
+To start up the robot, please refer to this image:
+.. image:: _static/rear_io_panel.png
+    :alt: Rear IO panel
+
+
+
 
 
 
