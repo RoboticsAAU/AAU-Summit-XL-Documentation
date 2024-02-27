@@ -15,4 +15,4 @@ Contents
 .. toctree::
 
    getting_started
-   api
+   changes/changes_made_to_the_robot
