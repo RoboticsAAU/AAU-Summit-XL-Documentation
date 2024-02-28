@@ -1,3 +1,3 @@
-Command Manger
-==============
+Command Manager
+===============
 
