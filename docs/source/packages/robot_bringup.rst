@@ -35,4 +35,4 @@ When the robot is first build and ready to install software on it,   ``summit_pa
 
 This code does a few things, it copies the environment variables to a folder called robot_params in the home directory.
 
- It also copies the boot scripts to the home directory and the boot service to the ``/etc/systemd/system/`` directory. As mentioned, the ``/robot_params``is the the main configurable parameters that the user can tune as they desire.
+It also copies the boot scripts to the home directory and the boot service to the ``/etc/systemd/system/`` directory. As mentioned, the ``/robot_params``is the the main configurable parameters that the user can tune as they desire.
