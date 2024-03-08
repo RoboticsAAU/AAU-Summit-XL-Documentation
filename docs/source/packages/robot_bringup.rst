@@ -40,19 +40,3 @@ Since the boot process needs to execute a few things, which is described in deta
 It also copies the boot scripts to the home directory and the boot service to the ``/etc/systemd/system/`` directory. The boot service is then enabled and started such that it is persistent to autostart at every boot reboot of the summit robot. 
 
 Lastly, notice in the scripts folder that there is a ``bringup-ros.service``, which defines the service that is started at boot. This service calls the ``bringup.sh`` script, which is the main script that starts the robot.
-
-.. code-block:: service
-
-    [unit]
-    description=launches all ros stuff through screen
-    requires=dbus.socket
-    after=multi-user.target
-
-    [service]
-    user=robot
-    remainafterexit=yes
-    execstart=/home/robot/bringup.sh
-
-    [install]
-    wantedby=multi-user.target
-
