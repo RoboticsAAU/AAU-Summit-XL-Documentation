@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
-=======================================
+Robotnik Summit XL Documentation
+================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This documentation refers to the Summit XL robot currently owned by the institute of Electronic Systems at Aalborg University.  
 
-Read the tutorial here:
+Link to the hosted documentation:
+https://aau-summit-xl-documentation.readthedocs.io/en/latest/
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Link to a usefull repository (private, but you can request access):
+https://github.com/RoboticsAAU/summit.git
