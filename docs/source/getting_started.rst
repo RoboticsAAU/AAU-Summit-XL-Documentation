@@ -103,7 +103,7 @@ And you can even list the topics being published by the robot:
 What is next
 ------------
 
-- Now that you have the robot up and running, you can start developing your own packages for the robot. You can also use the provided packages to control the robot. Please refer to the :doc:`packages` section for more information on the packages that are installed on the robot.
+- Now that you have the robot up and running, you can start developing your own packages for the robot. You can also use the provided packages to control the robot. Please refer to the :doc:`packages/packages` section for more information on the packages that are installed on the robot.
 - For information regarding the automated startup process of the robot, please refer to the :doc:`automatic_ros_startup` section.
 - It is recommended to use a containerized environment on your host machine to developping code for the robot, for more information regarding this, please refer to the :doc:`docker` section.
-- In case of any issues with the current setup of the robot, you can see the changelog for the robot in the :doc:`changelog` section.
+- In case of any issues with the current setup of the robot, you can see the changelog for the robot in the :doc:`changes_made_to_the_robot` section.
