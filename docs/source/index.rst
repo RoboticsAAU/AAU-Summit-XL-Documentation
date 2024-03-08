@@ -10,7 +10,7 @@ Check out the :doc:`getting_started` section for information on how to get the r
 
 .. note::
 
-   This documentation is not supposed to replace the official documentation of the robot. It is supposed to be a complement to the official documentation and to provide a more hands on approach to the robot.
+   This documentation is not supposed to replace the official documentation of the robot. It is supposed to be a complement to the official documentation including but not limited to the `README.md` files and manuals.  The objective is to provide a more hands on approach to the robot.
 
 Contents
 --------
