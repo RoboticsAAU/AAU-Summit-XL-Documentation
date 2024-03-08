@@ -42,6 +42,7 @@ It also copies the boot scripts to the home directory and the boot service to th
 Lastly, notice in the scripts folder that there is a ``bringup-ros.service``, which defines the service that is started at boot. This service calls the ``bringup.sh`` script, which is the main script that starts the robot.
 
 .. code-block:: service
+
     [unit]
     description=launches all ros stuff through screen
     requires=dbus.socket
