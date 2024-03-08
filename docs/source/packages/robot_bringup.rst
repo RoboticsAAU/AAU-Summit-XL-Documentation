@@ -12,7 +12,7 @@ In addition it contains bringup files for all of the different components of the
 Installation
 ------------
 
-When the robot is first build and ready to install software on it,   ``summit_packages_release_melodic`` is installed onto the onboard compututer. Then following the installation instructions in the README.md file in ``summit_packages_release_melodic-devel/robot_bringup/README.md`` will install the necessary Robot parameters on the computer. 
+When the robot is first build and ready to install software on it,   ``summit_packages_release_melodic`` is installed onto the onboard compututer. Then following the installation instructions in the README.md file in ``summit_packages_release_melodic-devel/robot_bringup/README.md`` will install the necessary Robot parameters on the computer. The following scripts are located in the ``scripts`` folder of the ``robot_bringup`` package.
 
 .. code-block:: bash
 
@@ -38,3 +38,20 @@ This code does a few things. It copies the environment variables to a folder cal
 Since the boot process needs to execute a few things, which is described in detail in :doc:`automatic_ros_startup`. The systemctl service needs to call ``bringup.sh``, where most of the startup happens among other things, this is where the roscore is executed. The ``ros_config.sh`` file is a helper file that sets up the environment variables for the user. The ``ros_config.sh`` file is then sourced in the ``.bashrc`` file so that the user can use the environment variables in the terminal and it displays some default information for the user.
 
 It also copies the boot scripts to the home directory and the boot service to the ``/etc/systemd/system/`` directory. The boot service is then enabled and started such that it is persistent to autostart at every boot reboot of the summit robot. 
+
+Lastly, notice in the scripts folder that there is a ``bringup-ros.service``, which defines the service that is started at boot. This service calls the ``bringup.sh`` script, which is the main script that starts the robot.
+
+.. code-block:: service
+    [unit]
+    description=launches all ros stuff through screen
+    requires=dbus.socket
+    after=multi-user.target
+
+    [service]
+    user=robot
+    remainafterexit=yes
+    execstart=/home/robot/bringup.sh
+
+    [install]
+    wantedby=multi-user.target
+
