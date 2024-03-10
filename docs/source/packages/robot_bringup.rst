@@ -40,3 +40,18 @@ Since the boot process needs to execute a few things, which is described in deta
 It also copies the boot scripts to the home directory and the boot service to the ``/etc/systemd/system/`` directory. The boot service is then enabled and started such that it is persistent to autostart at every boot reboot of the summit robot. 
 
 Lastly, notice in the scripts folder that there is a ``bringup-ros.service``, which defines the service that is started at boot. This service calls the ``bringup.sh`` script, which is the main script that starts the robot.
+
+
+Environment Variables
+---------------------
+The environment variables are split up into their respective domains represented by a ``.env`` file. The following environment variables are defined in the ``robot_bringup`` package which are then moved to the ``~/robot_params`` folder.
+
+* ``battery_params.env`` This file contains information about how the battery is configured and integrated into the robot. This revoleves around the Battery Management System (BMS) and the battery charger. 
+The voltage of the battery is defined by default to be 24V, which is calibrated from the factory. The BMS system is connected via serial to the onboard computer. 
+
+
+
+Launch 
+------
+The Robot bringup package does also include a launch folder in which the following launch files reside. 
+
